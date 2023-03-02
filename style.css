@@ -1,3 +1,22 @@
-h1{
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-top: 30px;
+}
+.hello{
     color: brown;
+    padding: 20px;
+}
+.number{
+    color: rgb(232, 17, 17);
+}
+
+.result{
+    color: green;
 }
